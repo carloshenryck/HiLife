@@ -23,6 +23,6 @@ O layout da aplicação está disponível no Figma:
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Acesse%20o%20Layout&logo=figma&logoColor=%234B0082&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCzwzjVrmxmAngJy1AgvLhU%2FHiLife-Prot-Alta-Fidelidade%3Fnode-id%3D0%253A1)](https://www.figma.com/file/CzwzjVrmxmAngJy1AgvLhU/HiLife-Prot-Alta-Fidelidade?node-id=0%3A1)
 
-<p>
+<p align="center">
      <img alt="HiLife" title="HiLife" src="./Assets/Mask Group.png">
 </p>
