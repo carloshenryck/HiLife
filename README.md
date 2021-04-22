@@ -16,3 +16,13 @@
 Projeto desenvolvido no curso de *Engenharia de Software* durante a cadeira de IHC(Interação Humano Computador), tal projeto tem o objetivo de analisar a interação do usuário com a interface de um protótipo criado por nós, buscando assim deficiências e possíveis melhorias na interface, usando conceitos de **UI** e **UX** para tornar a experiência de uso a melhor possível.
 
 ---
+
+## UI Design
+
+O layout da aplicação está disponível no Figma:
+
+[![Twitter URL](https://img.shields.io/twitter/url?label=Acesse%20o%20Layout&logo=figma&logoColor=%234B0082&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCzwzjVrmxmAngJy1AgvLhU%2FHiLife-Prot-Alta-Fidelidade%3Fnode-id%3D0%253A1)](https://www.figma.com/file/CzwzjVrmxmAngJy1AgvLhU/HiLife-Prot-Alta-Fidelidade?node-id=0%3A1)
+
+<p>
+     <img alt="HiLife" title="HiLife" src="./Assets/Mask Group.png">
+</p>
