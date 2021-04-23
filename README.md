@@ -38,7 +38,7 @@ O layout da aplicação está disponível no Figma:
      <img alt="HiLife" title="HiLife" src="./Assets/Mask Group.png">
 </p>
 
-## 👀 Previw
+## 👀 Preview
 <br>
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Acesse%20o%20Prot%C3%B3tipo&logo=figma&logoColor=%234B0082&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCzwzjVrmxmAngJy1AgvLhU%2FHiLife-Prot-Alta-Fidelidade%3Fnode-id%3D1%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1)](https://www.figma.com/proto/CzwzjVrmxmAngJy1AgvLhU/HiLife-Prot-Alta-Fidelidade?node-id=1%3A2&scaling=scale-down&page-id=0%3A1)
