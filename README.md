@@ -7,7 +7,7 @@
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/CarlosHenryck/HiLife">
 <img alt="GitHub" src="https://img.shields.io/github/license/aSTRonuun/UX-Ui-HiLife">
 <img alt="GitHub" src="https://img.shields.io/badge/category-health-green">    
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarlosHenryck?style=social">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/CarlosHenryck/HiLife?style=social">
 </p>
 
 <h4 align="center">
