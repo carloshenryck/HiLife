@@ -2,6 +2,14 @@
     <img alt="HiLife" title="HiLife" src="./Assets/Banner.png"/>
 </h1>
 
+<p align="center">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CarlosHenryck/HiLife">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/CarlosHenryck/HiLife">
+<img alt="GitHub" src="https://img.shields.io/github/license/aSTRonuun/UX-Ui-HiLife">
+<img alt="GitHub" src="https://img.shields.io/badge/category-health-green">    
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarlosHenryck?style=social">
+</p>
+
 <h4 align="center">
     🚧 HiLife 💜 Concluído 🚀 🚧
 </h4>
